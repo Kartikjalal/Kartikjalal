@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartikjalal
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning node js,ReactJs and phython.
 - 💞️ I’m looking to collaborate on real life projects 
 - 📫 How to reach me throught git hub only
 
